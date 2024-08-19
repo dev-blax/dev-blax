@@ -1,11 +1,11 @@
-# Welcome to My World
+# Hello and Welcome!
 
-Hello, I'm James, a passionate developer focused on mastering Flutter, Golang, and React.js.
+Hello, I'm James, a passionate developer focused on mastering Flutter, Python for AI, and React.js.
 
 ## About Me
 
 - **Exploring Flutter:** Currently diving deep into Flutter UI development.
-- **Enhancing Golang Skills:** Continuously improving my Golang proficiency for cleaner, efficient code.
+- **Enhancing Python for AI:** Continuously improving my Python skills, particularly for building intelligent systems and AI applications.
 - **Building with React.js:** Creating dynamic and responsive web applications with React.js.
 - **Open for Discussion:** Whether it's about coding projects or just good pizza recommendations, I'm here.
 - **Pronouns:** He/Him
@@ -13,7 +13,7 @@ Hello, I'm James, a passionate developer focused on mastering Flutter, Golang, a
 ## Tech Stack
 
 - **Flutter:** Building cross-platform mobile applications with engaging designs.
-- **Golang:** Developing precise and efficient backend services.
+- **Python for AI:** Developing AI-powered applications and models using Python.
 - **React.js:** Crafting interactive and responsive web applications.
 - **Cloud Computing:** Managing virtual machines and containers in the cloud.
 - **UI/UX Design:** Creating user experiences that captivate and engage.
