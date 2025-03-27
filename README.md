@@ -15,7 +15,6 @@ Hello, I'm James, a passionate developer focused on mastering Flutter, Python fo
 - **Flutter:** Building cross-platform mobile applications with engaging designs.
 - **Python for AI:** Developing AI-powered applications and models using Python.
 - **React.js:** Crafting interactive and responsive web applications.
-- **Cloud Computing:** Managing virtual machines and containers in the cloud.
 - **UI/UX Design:** Creating user experiences that captivate and engage.
 
 ## Fun Facts
