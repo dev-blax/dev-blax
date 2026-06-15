@@ -1,32 +1,58 @@
 # Hello and Welcome
 
-Hey, I'm James — a software developer building practical, modern systems with a strong focus on mobile, web, and AI technologies.
+I'm James, a backend engineer focused on designing scalable systems, resilient architectures, and high-performance platforms. I enjoy solving complex engineering problems, turning business requirements into reliable software, and building systems that remain maintainable as they grow.
 
 ## About Me
 
-* **Flutter:** Working toward clean, fast, reliable mobile apps with a focus on real-world usability.
-* **Python & AI:** Learning and applying Python to solve problems with automation and intelligent systems.
-* **React:** Building simple, responsive web interfaces that don’t get in the user’s way.
-* **Problem Solver:** I enjoy taking an idea, breaking it down, and turning it into something that actually works.
+* **Backend Engineering:** Designing and building distributed systems, APIs, and services that prioritize reliability, performance, and maintainability.
+* **System Architecture:** Translating business problems into technical solutions through thoughtful architecture, domain modeling, and engineering trade-offs.
+* **Cloud & Infrastructure:** Working with modern cloud-native technologies, automation, observability, and deployment strategies.
+* **Engineering Excellence:** Focused on clean architecture, testing, operational resilience, and long-term system evolution.
 
-## Tech Stack
+## Core Expertise
 
-* **Flutter**
-* **React.js**
-* **Python (AI/Automation)**
-* **Node.js**
-* **UI/UX fundamentals**
+* Backend Architecture
+* Distributed Systems
+* API Design & Integration
+* Event-Driven Architectures
+* Microservices & Modular Monoliths
+* Data Modeling & Persistence
+* Performance Optimization
+* Security & Reliability Engineering
+* Cloud Platforms & DevOps Practices
 
-## What Drives Me
+## Technical Focus
 
-* I like building things that people actually use.
-* I prefer simple solutions over complicated theory.
-* I’m always learning—new tools, new patterns, new ways to think.
+* Java & Spring Boot
+* PostgreSQL
+* Redis
+* Kafka & Messaging Systems
+* Docker & Kubernetes
+* AWS & Cloud-Native Technologies
+* CI/CD & Infrastructure Automation
+* Observability, Monitoring & Tracing
 
-## Outside Code
+## Engineering Principles
 
-* I enjoy good games, cycling to clear my mind, and taking photos when something catches my eye.
+* Build for maintainability before complexity.
+* Favor clear architecture over clever code.
+* Design systems with failure as an expected condition.
+* Measure, observe, and continuously improve.
+* Optimize for business outcomes, not technical novelty.
+
+## Current Interests
+
+* Distributed transactions and consistency models
+* High-scale backend architectures
+* Event sourcing and domain-driven design
+* Platform engineering
+* AI-powered backend systems
+* Financial and payment system design
+
+## Beyond Engineering
+
+I enjoy studying system design, business strategy, history, photography, and the engineering decisions behind large-scale technology platforms.
 
 ## Connect
 
-Always open to collaborate, discuss ideas, or build something meaningful.
+Open to discussions around backend engineering, software architecture, distributed systems, platform design, and building reliable technology at scale.
